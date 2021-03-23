@@ -12,8 +12,10 @@ export default {
   components: {
     PostList,
   },
-  metaInfo: {
-    title: "Happer blog"
+  metaInfo() {
+    return {
+      title: '¡Hola!'
+    }
   },
   computed: {
     years() {

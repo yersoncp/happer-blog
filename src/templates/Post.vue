@@ -13,7 +13,12 @@ import Header from "@/components/Header";
 export default {
   components: {
     Header
-  }
+  },
+  metaInfo() {
+    return {
+      title: this.$page.post.title
+    }
+  },
 };
 </script>
 
@@ -37,6 +42,7 @@ query Post ($path: String!) {
 <style>
   .article {
     margin-top: 15px;
+    font-weight: 300;
   }
 
   .article-title {
@@ -44,7 +50,7 @@ query Post ($path: String!) {
   }
 
   .article-date {
-    color: var(--app-font-color);
+    color: gray;
     margin-top:0;
     font-size:.8em;
   }
@@ -80,7 +86,7 @@ query Post ($path: String!) {
 
   .article img {
     margin:auto;
-    width:80%;
+    max-width: 100%;
     display:block;
     margin:10px auto;
   }

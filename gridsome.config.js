@@ -6,8 +6,8 @@
 
 module.exports = {
   siteName: 'Happer Blog',
-  siteUrl: 'https://gridsome-starter-minimal-blog.netlify.com/',
-  siteDescription: 'A minimalist blog built with Gridsome',
+  siteUrl: 'https://happer-blog.vercel.app/',
+  siteDescription: 'Facebook Pixel, Google Analytics, JavaScript',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
@@ -33,8 +33,8 @@ module.exports = {
       options: {
         contentTypes: ['Post'],
         feedOptions: {
-          title: 'A Gridsome Minimal Blog',
-          description: 'Best blog feed evah.'
+          title: 'Happer Blog',
+          description: 'Best blog feed.'
         },
         rss: {
           enabled: true,
