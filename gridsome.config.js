@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Happer Blog',
   siteUrl: 'https://happer-blog.vercel.app/',
-  siteDescription: 'Facebook Pixel, Google Analytics, JavaScript',
+  siteDescription: 'Rendirse no es una opción',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
