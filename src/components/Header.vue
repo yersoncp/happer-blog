@@ -1,5 +1,5 @@
 <template>
-  <header class="header">
+  <header class="header font">
     <g-link to="/"><h1>{{siteName}} 👨‍💻</h1></g-link>
     <ClientOnly>
       <ThemeToggle />

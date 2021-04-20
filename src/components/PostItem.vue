@@ -2,6 +2,7 @@
   <div class="post-item">
     <span class="date">{{date}}</span>
     <g-link :to="post.path" class="read">{{post.title}}</g-link>
+    <!-- <span>{{post.description}}</span> -->
     <span class="time-to-read"><i>{{post.timeToRead}} min read</i></span>
   </div>
 </template>

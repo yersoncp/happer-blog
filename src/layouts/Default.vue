@@ -2,7 +2,7 @@
   <main class="layout" role="main">
     <Header :siteName="$page.metadata.siteName" />
     <slot/>
-    <div class="footer">
+    <div class="footer font">
       <div>
         <p>
           Made with ❤️ by
@@ -52,11 +52,14 @@ export default {
 body {
   background-color: var(--app-background-color);
   color: var(--app-font-color);
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-family: 'Noto Serif JP', serif;
   margin:0;
   padding:0;
-  line-height: 1.5;
-  font-size:1.1em;
+  line-height: 1.8;
+  font-size:1.15em;
+}
+.font {
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 .layout {
   max-width: 760px;
@@ -68,7 +71,7 @@ body {
   display:flex;
   align-items:center;
   justify-content:space-between;
-  margin-top:60px;
+  margin: 80px 0;
   font-size:.8em;
 }
 
