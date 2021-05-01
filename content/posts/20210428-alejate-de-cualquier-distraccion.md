@@ -8,9 +8,9 @@ date: 2021-04-30
 
 Cuando te enfocas de manera consistente y disciplinado en una habilidad se establece un camino neuronal alrededor de esa habilidad. 
 
-Picasso, Messi, Steve Jobs, Federer... éstas personas se despojaron de la distracción y desarrollaron un monomaniaco enfoque de lo que hacían por un periodo largo de tiempo. ¿Y qué paso? su cerebro se activó y creó un dominio de los químicos que el cerebro posee.
+Picasso, Messi, Steve Jobs, Federer... éstas personas se despojaron de la distracción y desarrollaron un monomaniaco enfoque de lo que hacían por un periodo largo de tiempo. ¿Y qué pasó? su cerebro se activó y creó un dominio de los químicos que el cerebro posee.
 
-Cuando te alejas completamente a practicar todos los días en un ambiente sin distracciones los oligodentrocitos se activan y liberan un tejido graso llamado mielina. La mielina es conocido por muchos investigadores y cientificos de alto rendimiento como el secreto de los genios.
+Cuando te dedicas a practicar todos los días en un ambiente sin distracciones los oligodentrocitos se activan y liberan un tejido graso llamado mielina. La mielina es conocido por muchos investigadores y cientificos de alto rendimiento como el secreto de los genios.
 
 Si quieres tener los resultados que sólo el 5% de la población obtiene debes estar dispuesto a pensar como el 5% de la población. Cuando te alejas de la distracción y comienzas a centrate en ese único trabajo que te llevará hacer de clase mundial tu neocorteza que es la semilla del razonamiento comienza a apagarse, logras ver que nunca haces tu mejor trabajo desde el intelecto sino desde un lugar más profundo.
 
